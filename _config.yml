@@ -1,0 +1,7 @@
+title: Ajith Moola
+email: ajithr.moola@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Personal Website of Ajith Moola.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://ajithmoola.github.io" # the base hostname & protocol for your site
+
